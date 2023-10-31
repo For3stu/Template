@@ -1,0 +1,9 @@
+html{
+    /* this is for prevent adding extra size to the website */
+    box-sizing: border-box; 
+}
+
+body{
+    margin: 0;
+    min-height: 100vh;
+}
